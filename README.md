@@ -1,5 +1,8 @@
-### Hi there 👋  🌱 I’m currently learning JavaScript 📫 How to reach me: Linkedln ![image](https://user-images.githubusercontent.com/69135844/166108353-0688058e-1c3f-48a9-8b64-5917dc462980.png)
-https://www.linkedin.com/in/kevin-johnson-304929209/
+### Hi there 👋  
+🌱 I’m currently learning JavaScript 
+📫 How to reach me: Linkedln https://www.linkedin.com/in/kevin-johnson-304929209/
+###
+
 <!--
 **Kevin29Johnson/Kevin29Johnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
