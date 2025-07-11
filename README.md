@@ -57,23 +57,12 @@ I'm a **Full Stack Data Professional** with expertise spanning the entire data l
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-</div>
-
----
 
 ## 🎯 Current Focus
 - ☁️ **Cloud-Native Data Pipelines and Solutions**: Modern data stack for data engineering .
 - 🌊 **Real-Time Analytics**: Building low-latency streaming data architectures.
-- - 📈 **Advanced Analytics**: Statistical modeling and business intelligence.
+-  📈 **Advanced Analytics**: Statistical modeling and business intelligence.
 - 🤖 **LLM Applications**: Developing domain-specific AI solutions and RAG systems.
 
 
@@ -86,14 +75,4 @@ I'm a **Full Stack Data Professional** with expertise spanning the entire data l
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-johnson-304929209/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lnu.kev@northeastern.edu)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <i>⭐ "Data is the new oil, but insights are the refined fuel that powers business growth" ⭐</i>
 </div>
